@@ -109,4 +109,18 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+#### Profile Stats:
+
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaminXpro&theme=onedark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaminXpro&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alaminXpro&theme=onedark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaminXpro&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alaminXpro&theme=onedark&utcOffset=8)
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
