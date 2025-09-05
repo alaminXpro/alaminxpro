@@ -32,7 +32,9 @@
 
 <br><br>
 
-🔭 I’m currently working on **Full-stack Development**
+🔭 I’m currently working as a **Software Engineer** at **Ontik Technology**.
+
+✨ Building **LazyChat AI**, an AI agent that handles customer messages, takes orders, and solves issues 24/7 for e-commerce solutions.
 
 🌱 I’m currently learning **Blockchain & Smart Contract**
 
@@ -40,7 +42,7 @@
 
 💬 Ask me about **Ethereum, Hyperledger, NodeJS, React, NextJS, ExpressJS, Mern, Laravel, Flutter**
 
-📫 How to reach me **alamin@previewon.com**
+📫 How to reach me **info@alaminia.com**
 
 📄 Know about my experiences [my experiences](https://www.linkedin.com/in/alaminxpro/)
 
