@@ -23,7 +23,7 @@ AI-Agent Payments"* (**Wiley Engineering Reports**).
 
 **Stack:** TypeScript · Node · Next.js · React · Python · Laravel · Flutter · Postgres · MongoDB · Docker · AWS · Solidity/Foundry
 
-📫 info@alaminia.com · [alaminia.com](https://alaminia.com) · [LinkedIn](https://linkedin.com/in/alaminxpro)
+📫 contact@alaminia.com · [alaminia.com](https://alaminia.com) · [LinkedIn](https://linkedin.com/in/alaminxpro)
 <p>
  <img src="https://komarev.com/ghpvc/?username=alaminxpro&label=Profile%20views&color=0e75b6&style=flat" alt="MD. AL AMIN" /> 
 </p>
