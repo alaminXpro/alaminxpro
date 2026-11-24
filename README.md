@@ -1,6 +1,6 @@
 ### Hi, I'm Al Amin 👋
 
-**Co-Founder & CPO at [LazyChat Inc](https://lazychat.io)** — AI sales automation for commerce
+**CPO at [LazyChat Inc](https://lazychat.io)** — AI sales automation for commerce
 that happens in chat. Not a chatbot: we run the whole funnel — ad comment → DM → product
 recognition → order → human handoff → retention. Shopify, WooCommerce & custom stores,
 across Messenger, Instagram, WhatsApp & webchat.
